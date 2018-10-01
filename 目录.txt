@@ -1,0 +1,6 @@
+demo:配置appliction.properteis的使用
+demo2：jdbc和事物注解
+demo3：aop(加入一个切入点 对哪些方法进行拦截 实例事物注解，日志，测试等)
+demo4:redis运用
+demo5：日志
+demo6：测试
